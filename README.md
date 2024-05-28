@@ -2,7 +2,7 @@
 
 ## Laboratorio
 
-### 2.1 Generar repositorio de Github
+### 2.1  Generar repositorio de Github
 
 - Generar repositorio de Github privado con las ramas (`main`,`staging`,`develop`) y subir el código de la aplicación que se encuentra en el `.zip` sobre la rama `develop`, para este laboratorio vamos a manejar un flujo de Gitflow.
 
